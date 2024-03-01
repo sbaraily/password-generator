@@ -38,7 +38,7 @@ for passwrd in password:
 print(f"Your password is: {pswd}")
 
 # Solution #2
-# This is solution 2
+# This is solution 2 - Testing Push
 # total_entries = nr_letters + nr_numbers + nr_symbols
 # rand_pass = random.sample(password,total_entries)
 
